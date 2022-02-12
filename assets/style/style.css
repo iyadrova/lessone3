@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+} /* сразу обнуляются все отступы в документе */
+body{
+    padding: 0;
+    background-color: antiquewhite;
+    background-color: #a0a0a0;
+    color: red;/* отвечает за цвет шрифта */
+    color: rgba(255, 99, 71, .5); /* .5- указывает на прозрачность */
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif; /* указываем несколько шрифтов. используется первый */
+    font-size: 16px; /* можно использовать в пикселях, можно с названиями */
+
+
+}
+h1{
+    color: royalblue;
+}
+.classname{
+
+}
+#id_value{
+
+}
